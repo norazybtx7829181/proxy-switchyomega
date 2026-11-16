@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-switchyomega-github)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://share.google/l6wJX5FVwAO18uGRX)
 
 </div>
 
@@ -79,7 +79,7 @@ No cloud telemetry or external logging. All bypass protocols are executed locall
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-switchyomega-github)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://share.google/l6wJX5FVwAO18uGRX)
 
 </div>
 
